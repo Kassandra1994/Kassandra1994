@@ -2,6 +2,8 @@
 
 A **Biomedical Engineer** focused on **Data Analytics, Biostatistics, and HealthTech**, with a strong foundation in **Software QA Automation**. I enjoy working with medical datasets, uncovering insights through code, and ensuring software quality through reliable automated testing.
 
+![Posete](https://komarev.com/ghpvc/?username=Kassandra1994&color=blue)
+
 ---
 
 ### 🛠️ Tech Stack & Tools
